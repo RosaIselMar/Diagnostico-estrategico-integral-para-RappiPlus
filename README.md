@@ -1,0 +1,1 @@
+# Diagnostico-estratgico-integral-para-RappiPlus.-
