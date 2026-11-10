@@ -19,15 +19,15 @@ datasets/rappiplus_marketing_spend.csv: Información sobre inversión en marketi
 Objetivo:
 
 - Evaluar la calidad de los datos.
-- 
+  
 - Detectar valores nulos, duplicados e inconsistencias.
-- 
+  
 - Validar tipos de datos y relaciones entre variables.
-- 
+  
 - Identificar y evaluar valores atípicos (outliers).
-- 
+  
 - Limpiar, transformar y estructurar los datasets.
-- 
+  
 - Generar archivos depurados para su posterior análisis y construcción de un dashboard.
 
 2. Análisis del comportamiento y conversión de usuarios
